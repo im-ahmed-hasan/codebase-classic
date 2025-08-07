@@ -1,1 +1,1 @@
-# codebase-classic-colla
+# codebase-classic-collaboration
